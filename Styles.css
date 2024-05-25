@@ -46,7 +46,7 @@ nav ul li a {
     color: #333;
 }
 
-.login-button {
+#connectButton {
     background: #4CAF50;
     color: white;
     padding: 10px 20px;
